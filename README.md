@@ -72,7 +72,7 @@ view my notebook with detailed steps here:
 
 ### Results 
 
-![Visualization of Top Skills for Data Nerds](Project_3.0\barh.png)
+![Visualization of Top Skills for Data Nerds](Project_3.0/barh.png)
 
 ### Insights 
 
@@ -109,7 +109,7 @@ for i in range(5):
 
 ### Results 
 
-![Trending Top Skills for Data Analysts in the IND](Project_3.0\line.png)
+![Trending Top Skills for Data Analysts in the IND](Project_3.0/line.png)
 *line graph visualizing the trending top skills for data analysts in IND in 2023.*
 
 ### Insights:
@@ -139,7 +139,7 @@ plt.show()
 ```
 #### Results
 
-![Salary Distribution of Data Jobs in India](Project_3.0\box.png)
+![Salary Distribution of Data Jobs in India](Project_3.0/box.png)
 *Box plot visualizing the salary distribution for the top 6 data job titles.*
 
 #### Insights: 
@@ -184,7 +184,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![The Highest Paid and Most In-Demand Skills for Data Analysts in India](Project_3.0\sub.png)
+![The Highest Paid and Most In-Demand Skills for Data Analysts in India](Project_3.0/sub.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in India.*
 
 #### Insights:
@@ -237,7 +237,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Most Optimal Skills for Data Analysts in India](Project_3.0\scatter.png)
+![Most Optimal Skills for Data Analysts in India](Project_3.0/scatter.png)
 *A scatter plot visualizing the most optimal skills (high paying and high deemand) for data analysts in India.*
 
 #### Insights: 
